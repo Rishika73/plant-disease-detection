@@ -1,0 +1,91 @@
+model_disease_name,extracted_disease_part,severity,treatment
+Apple___Apple_scab,apple scab,Mild,"Remove and destroy fallen leaves, prune to increase airflow, and use resistant cultivars."
+Apple___Apple_scab,apple scab,Moderate,Apply protectant fungicides like captan or sulfur every 7–10 days during wet periods.
+Apple___Apple_scab,apple scab,Severe,"Use a full spray program with protectant and curative fungicides, apply urea to fallen leaves."
+Apple___Black_rot,black rot,Mild,Prune and remove infected fruits and wood; monitor trees regularly for signs of infection.
+Apple___Black_rot,black rot,Moderate,Apply fungicides like captan or sulfur from petal fall to harvest; ensure good airflow.
+Apple___Black_rot,black rot,Severe,Follow intensive fungicide schedule and remove all infected material immediately.
+Apple___Cedar_apple_rust,cedar apple rust,Mild,Remove nearby cedar trees if possible and monitor apple trees early in the season.
+Apple___Cedar_apple_rust,cedar apple rust,Moderate,Apply myclobutanil or propiconazole fungicides during early leaf development.
+Apple___Cedar_apple_rust,cedar apple rust,Severe,Use systemic fungicides regularly and eliminate alternate host plants in the vicinity.
+Cherry_(including_sour)___Powdery_mildew,powdery mildew,Mild,Apply neem oil spray in early morning. - Monitor and apply organic solutions.
+Cherry_(including_sour)___Powdery_mildew,powdery mildew,Moderate,Apply neem oil spray in early morning. - Use appropriate fungicide weekly.
+Cherry_(including_sour)___Powdery_mildew,powdery mildew,Severe,Apply neem oil spray in early morning. - Remove infected parts and apply strong fungicides.
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,cercospora leaf spot gray leaf spot,Mild,Apply neem oil spray in early morning. - Monitor and apply organic solutions.
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,cercospora leaf spot gray leaf spot,Moderate,Apply neem oil spray in early morning. - Use appropriate fungicide weekly.
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,cercospora leaf spot gray leaf spot,Severe,Apply neem oil spray in early morning. - Remove infected parts and apply strong fungicides.
+Corn_(maize)___Common_rust_,common rust,Mild,Spray with baking soda solution weekly. - Monitor and apply organic solutions.
+Corn_(maize)___Common_rust_,common rust,Moderate,Spray with baking soda solution weekly. - Use appropriate fungicide weekly.
+Corn_(maize)___Common_rust_,common rust,Severe,Spray with baking soda solution weekly. - Remove infected parts and apply strong fungicides.
+Corn_(maize)___Northern_Leaf_Blight,northern leaf blight,Mild,Trim lower leaves and maintain dry soil surface. - Monitor and apply organic solutions.
+Corn_(maize)___Northern_Leaf_Blight,northern leaf blight,Moderate,Trim lower leaves and maintain dry soil surface. - Use appropriate fungicide weekly.
+Corn_(maize)___Northern_Leaf_Blight,northern leaf blight,Severe,Trim lower leaves and maintain dry soil surface. - Remove infected parts and apply strong fungicides.
+Grape___Black_rot,black rot,Mild,Prune and remove infected fruits and wood; monitor trees regularly for signs of infection.
+Grape___Black_rot,black rot,Moderate,Apply fungicides like captan or sulfur from petal fall to harvest; ensure good airflow.
+Grape___Black_rot,black rot,Severe,Follow intensive fungicide schedule and remove all infected material immediately.
+Grape___Esca_(Black_Measles),esca (black measles),Mild,Treatment not available - Monitor and apply organic solutions.
+Grape___Esca_(Black_Measles),esca (black measles),Moderate,Treatment not available - Use appropriate fungicide weekly.
+Grape___Esca_(Black_Measles),esca (black measles),Severe,Treatment not available - Remove infected parts and apply strong fungicides.
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),leaf blight (isariopsis leaf spot),Mild,Treatment not available - Monitor and apply organic solutions.
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),leaf blight (isariopsis leaf spot),Moderate,Treatment not available - Use appropriate fungicide weekly.
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),leaf blight (isariopsis leaf spot),Severe,Treatment not available - Remove infected parts and apply strong fungicides.
+Orange___Haunglongbing_(Citrus_greening),haunglongbing (citrus greening),Mild,Treatment not available - Monitor and apply organic solutions.
+Orange___Haunglongbing_(Citrus_greening),haunglongbing (citrus greening),Moderate,Treatment not available - Use appropriate fungicide weekly.
+Orange___Haunglongbing_(Citrus_greening),haunglongbing (citrus greening),Severe,Treatment not available - Remove infected parts and apply strong fungicides.
+Peach___Bacterial_spot,bacterial spot,Mild,Trim lower leaves and maintain dry soil surface. - Monitor and apply organic solutions.
+Peach___Bacterial_spot,bacterial spot,Moderate,Trim lower leaves and maintain dry soil surface. - Use appropriate fungicide weekly.
+Peach___Bacterial_spot,bacterial spot,Severe,Trim lower leaves and maintain dry soil surface. - Remove infected parts and apply strong fungicides.
+"Pepper,_bell___Bacterial_spot",bacterial spot,Mild,Trim lower leaves and maintain dry soil surface. - Monitor and apply organic solutions.
+"Pepper,_bell___Bacterial_spot",bacterial spot,Moderate,Trim lower leaves and maintain dry soil surface. - Use appropriate fungicide weekly.
+"Pepper,_bell___Bacterial_spot",bacterial spot,Severe,Trim lower leaves and maintain dry soil surface. - Remove infected parts and apply strong fungicides.
+Potato___Early_blight,early blight,Mild,Remove affected leaves and monitor closely. - Monitor and apply organic solutions.
+Potato___Early_blight,early blight,Moderate,Remove affected leaves and monitor closely. - Use appropriate fungicide weekly.
+Potato___Early_blight,early blight,Severe,Remove affected leaves and monitor closely. - Remove infected parts and apply strong fungicides.
+Potato___Late_blight,late blight,Mild,Apply sulfur dust to lower foliage. - Monitor and apply organic solutions.
+Potato___Late_blight,late blight,Moderate,Apply sulfur dust to lower foliage. - Use appropriate fungicide weekly.
+Potato___Late_blight,late blight,Severe,Apply sulfur dust to lower foliage. - Remove infected parts and apply strong fungicides.
+Squash___Powdery_mildew,powdery mildew,Mild,Apply neem oil spray in early morning. - Monitor and apply organic solutions.
+Squash___Powdery_mildew,powdery mildew,Moderate,Apply neem oil spray in early morning. - Use appropriate fungicide weekly.
+Squash___Powdery_mildew,powdery mildew,Severe,Apply neem oil spray in early morning. - Remove infected parts and apply strong fungicides.
+Strawberry___Leaf_scorch,leaf scorch,Mild,Remove affected leaves and monitor closely. - Monitor and apply organic solutions.
+Strawberry___Leaf_scorch,leaf scorch,Moderate,Remove affected leaves and monitor closely. - Use appropriate fungicide weekly.
+Strawberry___Leaf_scorch,leaf scorch,Severe,Remove affected leaves and monitor closely. - Remove infected parts and apply strong fungicides.
+Tomato___Bacterial_spot,bacterial spot,Mild,Trim lower leaves and maintain dry soil surface. - Monitor and apply organic solutions.
+Tomato___Bacterial_spot,bacterial spot,Moderate,Trim lower leaves and maintain dry soil surface. - Use appropriate fungicide weekly.
+Tomato___Bacterial_spot,bacterial spot,Severe,Trim lower leaves and maintain dry soil surface. - Remove infected parts and apply strong fungicides.
+Tomato___Early_blight,early blight,Mild,Remove affected leaves and monitor closely. - Monitor and apply organic solutions.
+Tomato___Early_blight,early blight,Moderate,Remove affected leaves and monitor closely. - Use appropriate fungicide weekly.
+Tomato___Early_blight,early blight,Severe,Remove affected leaves and monitor closely. - Remove infected parts and apply strong fungicides.
+Tomato___Late_blight,late blight,Mild,Apply sulfur dust to lower foliage. - Monitor and apply organic solutions.
+Tomato___Late_blight,late blight,Moderate,Apply sulfur dust to lower foliage. - Use appropriate fungicide weekly.
+Tomato___Late_blight,late blight,Severe,Apply sulfur dust to lower foliage. - Remove infected parts and apply strong fungicides.
+Tomato___Leaf_Mold,leaf mold,Mild,Apply neem oil spray in early morning. - Monitor and apply organic solutions.
+Tomato___Leaf_Mold,leaf mold,Moderate,Apply neem oil spray in early morning. - Use appropriate fungicide weekly.
+Tomato___Leaf_Mold,leaf mold,Severe,Apply neem oil spray in early morning. - Remove infected parts and apply strong fungicides.
+Tomato___Septoria_leaf_spot,septoria leaf spot,Mild,Apply sulfur dust to lower foliage. - Monitor and apply organic solutions.
+Tomato___Septoria_leaf_spot,septoria leaf spot,Moderate,Apply sulfur dust to lower foliage. - Use appropriate fungicide weekly.
+Tomato___Septoria_leaf_spot,septoria leaf spot,Severe,Apply sulfur dust to lower foliage. - Remove infected parts and apply strong fungicides.
+Tomato___Spider_mites Two-spotted_spider_mite,spider mites two-spotted spider mite,Mild,Trim lower leaves and maintain dry soil surface. - Monitor and apply organic solutions.
+Tomato___Spider_mites Two-spotted_spider_mite,spider mites two-spotted spider mite,Moderate,Trim lower leaves and maintain dry soil surface. - Use appropriate fungicide weekly.
+Tomato___Spider_mites Two-spotted_spider_mite,spider mites two-spotted spider mite,Severe,Trim lower leaves and maintain dry soil surface. - Remove infected parts and apply strong fungicides.
+Tomato___Target_Spot,target spot,Mild,Use compost tea and improve air circulation. - Monitor and apply organic solutions.
+Tomato___Target_Spot,target spot,Moderate,Use compost tea and improve air circulation. - Use appropriate fungicide weekly.
+Tomato___Target_Spot,target spot,Severe,Use compost tea and improve air circulation. - Remove infected parts and apply strong fungicides.
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,tomato yellow leaf curl virus,Mild,Remove affected leaves and monitor closely. - Monitor and apply organic solutions.
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,tomato yellow leaf curl virus,Moderate,Remove affected leaves and monitor closely. - Use appropriate fungicide weekly.
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,tomato yellow leaf curl virus,Severe,Remove affected leaves and monitor closely. - Remove infected parts and apply strong fungicides.
+Tomato___Tomato_mosaic_virus,tomato mosaic virus,Mild,Remove affected leaves and monitor closely. - Monitor and apply organic solutions.
+Tomato___Tomato_mosaic_virus,tomato mosaic virus,Moderate,Remove affected leaves and monitor closely. - Use appropriate fungicide weekly.
+Tomato___Tomato_mosaic_virus,tomato mosaic virus,Severe,Remove affected leaves and monitor closely. - Remove infected parts and apply strong fungicides.
+Apple___healthy,healthy,Mild,No treatment needed.
+Blueberry___healthy,healthy,Mild,No treatment needed.
+Cherry_(including_sour)___healthy,healthy,Mild,No treatment needed.
+Corn_(maize)___healthy,healthy,Mild,No treatment needed.
+Grape___healthy,healthy,Mild,No treatment needed.
+Peach___healthy,healthy,Mild,No treatment needed.
+"Pepper,_bell___healthy",healthy,Mild,No treatment needed.
+Potato___healthy,healthy,Mild,No treatment needed.
+Raspberry___healthy,healthy,Mild,No treatment needed.
+Soybean___healthy,healthy,Mild,No treatment needed.
+Strawberry___healthy,healthy,Mild,No treatment needed.
+Tomato___healthy,healthy,Mild,No treatment needed.
