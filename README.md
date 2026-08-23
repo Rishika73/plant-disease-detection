@@ -1,6 +1,3 @@
-# Plant Disease Detection
-
-A deep learning project for identifying plant diseases from leaf images, estimating infection severity, and suggesting possible treatments.
 
 ## Overview
 
@@ -13,6 +10,14 @@ The system takes a plant leaf image as input and predicts:
 - a treatment recommendation based on the prediction
 
 I compared multiple transfer learning models and used a Streamlit interface to make the final model easy to test with uploaded leaf images.
+
+## Demo
+
+Here is a sample prediction from the Streamlit app:
+
+![Plant Disease Prediction Result](screenshots/prediction_result.png)
+
+The model identified the uploaded leaf as `Strawberry___healthy`, predicted the severity as `Mild`, and returned `No treatment needed.`
 
 ## How It Works
 
